@@ -11,3 +11,6 @@ The task are:
 -Smile in the mirror
 -Hexadecimal
 -Patience, persistence and perspiration make an unbeatable combination for success
+-Inventing is a combination of brains and materials. The more brains you use, the less material you need
+-The success combination in business is: Do what you do better... and: do more of what you do...
+-Software is eating the World. 
