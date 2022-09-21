@@ -18,8 +18,8 @@ char *_strncat(char *dest, char *src, int n)
 
 	while (c1 < n)
 	{
-		*(dest +c) = *(src + c1);
-		if(*(src + c1) == '\0')
+		*(dest + c) = *(src + c1);
+		if (*(src + c1) == '\0')
 			break;
 		c++;
 		c1++;
